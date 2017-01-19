@@ -15,7 +15,7 @@ class Program
         }
         else if (number == 3)
         {
-            Console.WriteLine("thre");
+            Console.WriteLine("three");
         }
         else if (number == 4)
         {
